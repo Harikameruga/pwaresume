@@ -1,0 +1,55 @@
+{"details":{
+  "image":"profile.png",
+  "name":"harika",
+  "phoneno":"+91-9999988888",
+  "email":"harikameruga17@gmail.com",
+  "address":"DVR & Dr. HS MIC College of Technology"
+},
+"career":{
+  "info":"To pursue a challenging career and to be a part of progressive organisation that gives a scope to enhance my knowledge and utilizing my skills"
+
+},
+"education":[
+  {
+  "qualification":"B.Tech",
+  "institute":"MIC college",
+  "year":"2016-2020",
+  "Percentage":"89%"
+},
+{ "qualification":"Intermediate",
+  "institute":"Sri Chaitanya",
+  "year":"2014-2016",
+  "Percentage":"98%"
+},
+{
+  "qualification":"SSC",
+  "institute":"VVPS",
+  "year":"2013-2014",
+  "Percentage":"97%"
+}
+],
+"skills":[{
+  "title":"Pogramming languages",
+  "info":["C,C++,Java,R,Python"]
+},
+{
+  "title":"Databases",
+  "info":["oracle,SQL,mysql,Tinydb"]
+},
+
+{
+  "title":"Operating systems",
+  "info":["Windows,Linux,Ubuntu,Dos"]
+}
+
+],
+"achievements":[{
+  "title":"sports",
+  "info":"achieved first prize in volleyball"
+},
+{
+  "title":"prizes",
+  "info":"awarded as a best student"
+}
+  ]
+}
